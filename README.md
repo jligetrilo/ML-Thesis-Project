@@ -1,2 +1,3 @@
 # ML-Thesis-Project
-Graduate thesis research on Machine Learning applications
+
+Machine learning (ML) is a field of study in artificial intelligence (AI) that focuses on the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. It has been a part of research since the 1960s, but gained prominence in the 2010s due to advances in computing power, availability of large datasets, and improvements in algorithms. Common ML tasks include classification, regression, clustering, and dimensionality reduction. Supervised learning, unsupervised learning, and reinforcement learning are primary paradigms.
